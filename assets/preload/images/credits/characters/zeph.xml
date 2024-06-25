@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zeph.png">
+<SubTexture name="play0000" x="0" y="0" width="148" height="164" frameX="-51" frameY="-42" frameWidth="261" frameHeight="259" />
+<SubTexture name="play0001" x="148" y="0" width="138" height="156" frameX="-60" frameY="-50" frameWidth="261" frameHeight="259" />
+</TextureAtlas>

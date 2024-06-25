@@ -1,0 +1,26 @@
+        {
+        "storyName": "The World Below",
+        "hideFreeplay": true,
+        "weekBackground": "stage",
+        "weekBefore": "tutorial",
+        "startUnlocked": true,
+        "weekCharacters": [
+            "dad",
+            "bf",
+            "gf"
+        ],
+        "songs": [
+            [
+                "Burnt Out",
+                "freeplay/burnt-out",
+                [
+                    120,
+                    60,
+                    40
+                ]
+            ]
+        ],
+        "hideStoryMode": true,
+        "weekName": "True Ending"
+        }
+        

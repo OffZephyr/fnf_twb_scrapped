@@ -1,0 +1,26 @@
+           {
+            "storyName": "The World Below",
+            "hideFreeplay": true,
+            "weekBackground": "stage",
+            "weekBefore": "tutorial",
+            "startUnlocked": true, 
+            "weekCharacters": [
+                "dad",
+                "bf",
+                "gf"
+            ],
+            "songs": [
+                [
+                    "Slowly",
+                    "freeplay/slowly",
+                    [
+                        125,
+                        74,
+                        42
+                    ]
+                ]
+            ],
+            "hideStoryMode": true,
+            "weekName": "Game Over"
+           }
+           

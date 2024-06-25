@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slylin.png">
+<SubTexture name="play0000" x="0" y="0" width="185" height="185" frameX="-46" frameY="-35" frameWidth="261" frameHeight="261" />
+<SubTexture name="play0001" x="185" y="0" width="184" height="178" frameX="-48" frameY="-42" frameWidth="261" frameHeight="261" />
+</TextureAtlas>

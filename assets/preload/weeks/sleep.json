@@ -1,0 +1,26 @@
+        {
+            "storyName": "The World Below",
+            "hideFreeplay": true,
+            "weekBackground": "stage",
+            "weekBefore": "tutorial",
+            "startUnlocked": true, 
+            "weekCharacters": [
+                "dad",
+                "bf",
+                "gf"
+            ],
+            "songs": [
+                        [
+                            "Sleepless Night",
+                            "freeplay/sleepless-night",
+                            [
+                                175,
+                                255,
+                                115
+                            ]
+                        ]
+            ],
+            "hideStoryMode": true,
+            "weekName": "Good Ending"
+        }
+        

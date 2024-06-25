@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="seonne.png">
+<SubTexture name="play0000" x="0" y="0" width="1042" height="1100" frameX="-391" frameY="-315" frameWidth="1700" frameHeight="1700" />
+<SubTexture name="play0001" x="1042" y="0" width="894" height="1012" frameX="-454" frameY="-403" frameWidth="1700" frameHeight="1700" />
+</TextureAtlas>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="runArm.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="runArm0000" x="0" y="0" width="661" height="661"/>
+	<SubTexture name="runArm0001" x="661" y="0" width="661" height="661"/>
+	<SubTexture name="runArm0002" x="1322" y="0" width="661" height="661"/>
+	<SubTexture name="runArm0003" x="1983" y="0" width="661" height="661"/>
+	<SubTexture name="runArm0004" x="2644" y="0" width="661" height="661"/>
+	<SubTexture name="runArm0005" x="3305" y="0" width="661" height="661"/>
+	<SubTexture name="runArm0006" x="0" y="661" width="661" height="661"/>
+	<SubTexture name="runArm0007" x="661" y="661" width="661" height="661"/>
+	<SubTexture name="runArm0008" x="1322" y="661" width="661" height="661"/>
+	<SubTexture name="runArm0009" x="1983" y="661" width="661" height="661"/>
+	<SubTexture name="runArm0010" x="2644" y="661" width="661" height="661"/>
+	<SubTexture name="runArm0011" x="3305" y="661" width="661" height="661"/>
+	<SubTexture name="runArm0012" x="0" y="1322" width="661" height="661"/>
+	<SubTexture name="runArm0013" x="661" y="1322" width="661" height="661"/>
+	<SubTexture name="runArm0014" x="1322" y="1322" width="661" height="661"/>
+	<SubTexture name="runArm0015" x="1983" y="1322" width="661" height="661"/>
+	<SubTexture name="runArm0016" x="2644" y="1322" width="661" height="661"/>
+	<SubTexture name="runArm0017" x="3305" y="1322" width="661" height="661"/>
+	<SubTexture name="runArm0018" x="0" y="1983" width="661" height="661"/>
+</TextureAtlas>

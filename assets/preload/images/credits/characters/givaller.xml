@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="givaller.png">
+<SubTexture name="play0000" x="0" y="0" width="1044" height="1075" frameX="-466" frameY="-433" frameWidth="1700" frameHeight="1700" />
+<SubTexture name="play0001" x="1044" y="0" width="1031" height="1074" frameX="-475" frameY="-432" frameWidth="1700" frameHeight="1700" />
+</TextureAtlas>

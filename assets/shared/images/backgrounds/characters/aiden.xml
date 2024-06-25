@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aiden.png">
+<SubTexture name="aiden walk0000" x="284" y="0" width="341" height="554" frameX="-579" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="aiden walk0001" x="894" y="0" width="299" height="549" frameX="-581" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="aiden walk0002" x="0" y="0" width="284" height="564" frameX="-579" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="aiden walk0003" x="625" y="0" width="269" height="554" frameX="-581" frameY="-114" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

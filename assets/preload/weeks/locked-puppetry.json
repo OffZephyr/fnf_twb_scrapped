@@ -1,0 +1,25 @@
+{
+	"storyName": "The World Below",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"locked",
+			"freeplay/locked",
+			[
+				30,
+				50,
+				30
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Main Songs"
+}

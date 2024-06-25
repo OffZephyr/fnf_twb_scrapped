@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tom.png">
+<SubTexture name="tom walkin0000" x="0" y="0" width="393" height="600" frameX="-469" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tom walkin0001" x="658" y="0" width="312" height="596" frameX="-537" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tom walkin0002" x="393" y="0" width="265" height="599" frameX="-566" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tom walkin0003" x="970" y="0" width="278" height="595" frameX="-554" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tom walkin0004" x="0" y="600" width="240" height="586" frameX="-588" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tom walkin0005" x="240" y="600" width="239" height="584" frameX="-583" frameY="-74" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

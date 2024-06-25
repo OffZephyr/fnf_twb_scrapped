@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slylin.png">
+<SubTexture name="slylin walk0000" x="0" y="532" width="414" height="491" frameX="-415" frameY="-135" frameWidth="1280" frameHeight="720" />
+<SubTexture name="slylin walk0001" x="414" y="532" width="377" height="491" frameX="-435" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="slylin walk0002" x="314" y="0" width="314" height="530" frameX="-478" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="slylin walk0003" x="628" y="0" width="304" height="526" frameX="-463" frameY="-125" frameWidth="1280" frameHeight="720" />
+<SubTexture name="slylin walk0004" x="932" y="0" width="282" height="512" frameX="-495" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="slylin walk0005" x="0" y="0" width="314" height="532" frameX="-478" frameY="-147" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cala.png">
+<SubTexture name="cala walk0000" x="0" y="0" width="374" height="490" frameX="-444" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cala walk0001" x="719" y="0" width="345" height="489" frameX="-452" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cala walk0002" x="0" y="490" width="345" height="480" frameX="-444" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cala walk0003" x="374" y="0" width="345" height="490" frameX="-452" frameY="-169" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

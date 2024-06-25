@@ -1,0 +1,25 @@
+{
+	"storyName": "The World Below",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"A Beautiful End",
+			"freeplay/a-beautiful-end",
+			[
+				155,
+				215,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bad Ending"
+}

@@ -1,0 +1,26 @@
+           {
+            "storyName": "The World Below",
+            "hideFreeplay": true,
+            "weekBackground": "stage",
+            "weekBefore": "tutorial",
+            "startUnlocked": true, 
+            "weekCharacters": [
+                "dad",
+                "bf",
+                "gf"
+            ],
+            "songs": [
+                [
+                    "A Corrupted Duel",
+                    "freeplay/borgor",
+                    [
+                        135,
+                        61,
+                        91
+                    ]
+                ]
+            ],
+            "hideStoryMode": true,
+            "weekName": "Borgor"
+           }
+           

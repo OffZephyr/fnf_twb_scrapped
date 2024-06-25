@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mango.png">
+<SubTexture name="mango walk0000" x="0" y="0" width="753" height="513" frameX="-152" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mango walk0001" x="742" y="513" width="742" height="469" frameX="-167" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mango walk0002" x="753" y="0" width="753" height="496" frameX="-152" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mango walk0003" x="0" y="513" width="742" height="476" frameX="-167" frameY="-214" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

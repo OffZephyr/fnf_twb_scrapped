@@ -1,0 +1,25 @@
+{
+    "storyName": "The World Below",
+    "hideFreeplay": false,
+    "weekBackground": "stage",
+    "weekBefore": "tutorial",
+    "startUnlocked": true,
+    "weekCharacters": [
+        "dad",
+        "bf",
+        "gf"
+    ],
+    "songs": [
+        [
+            "locked",
+            "freeplay/locked",
+            [
+                135,
+                61,
+                91
+            ]
+        ]
+    ],
+    "hideStoryMode": true,
+    "weekName": "Borgor"
+   }

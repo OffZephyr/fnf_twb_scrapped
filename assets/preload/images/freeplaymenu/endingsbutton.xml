@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="endingsbutton.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lock0000" x="0" y="0" width="396" height="396"/>
+	<SubTexture name="neutral0000" x="396" y="0" width="392" height="392"/>
+	<SubTexture name="select0000" x="0" y="396" width="392" height="392"/>
+	<SubTexture name="enter0000" x="392" y="396" width="392" height="392"/>
+</TextureAtlas>

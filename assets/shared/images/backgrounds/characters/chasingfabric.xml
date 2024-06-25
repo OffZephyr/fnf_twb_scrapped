@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chasingfabric.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fabric0000" x="4" y="4" width="1280" height="720"/>
+	<SubTexture name="fabric0001" x="1288" y="4" width="1280" height="720"/>
+	<SubTexture name="fabric0002" x="2572" y="4" width="1280" height="720"/>
+	<SubTexture name="fabric0003" x="3856" y="4" width="1280" height="720"/>
+	<SubTexture name="fabric0004" x="5140" y="4" width="1280" height="720"/>
+	<SubTexture name="fabric0005" x="6424" y="4" width="1280" height="720"/>
+	<SubTexture name="fabric0006" x="4" y="728" width="1280" height="720"/>
+	<SubTexture name="fabric0007" x="1288" y="728" width="1280" height="720"/>
+	<SubTexture name="fabric0008" x="2572" y="728" width="1280" height="720"/>
+	<SubTexture name="fabric0009" x="3856" y="728" width="1280" height="720"/>
+	<SubTexture name="fabric0010" x="5140" y="728" width="1280" height="720"/>
+	<SubTexture name="fabric0011" x="6424" y="728" width="1280" height="720"/>
+	<SubTexture name="fabric0012" x="4" y="1452" width="1280" height="720"/>
+	<SubTexture name="fabric0013" x="1288" y="1452" width="1280" height="720"/>
+	<SubTexture name="fabric0014" x="2572" y="1452" width="1280" height="720"/>
+	<SubTexture name="fabric0015" x="3856" y="1452" width="1280" height="720"/>
+	<SubTexture name="fabric0016" x="5140" y="1452" width="1280" height="720"/>
+	<SubTexture name="fabric0017" x="6424" y="1452" width="1280" height="720"/>
+	<SubTexture name="fabric0018" x="4" y="2176" width="1280" height="720"/>
+	<SubTexture name="fabric0019" x="1288" y="2176" width="1280" height="720"/>
+	<SubTexture name="fabric0020" x="2572" y="2176" width="1280" height="720"/>
+	<SubTexture name="fabric0021" x="3856" y="2176" width="1280" height="720"/>
+	<SubTexture name="fabric0022" x="5140" y="2176" width="1280" height="720"/>
+	<SubTexture name="fabric0023" x="6424" y="2176" width="1280" height="720"/>
+	<SubTexture name="fabric0024" x="4" y="2900" width="1280" height="720"/>
+	<SubTexture name="fabric0025" x="1288" y="2900" width="1280" height="720"/>
+	<SubTexture name="fabric0026" x="2572" y="2900" width="1280" height="720"/>
+	<SubTexture name="fabric0027" x="3856" y="2900" width="1280" height="720"/>
+	<SubTexture name="fabric0028" x="5140" y="2900" width="1280" height="720"/>
+	<SubTexture name="fabric0029" x="6424" y="2900" width="1280" height="720"/>
+	<SubTexture name="fabric0030" x="4" y="3624" width="1280" height="720"/>
+	<SubTexture name="fabric0031" x="1288" y="3624" width="1280" height="720"/>
+	<SubTexture name="fabric0032" x="2572" y="3624" width="1280" height="720"/>
+	<SubTexture name="fabric0033" x="3856" y="3624" width="1280" height="720"/>
+	<SubTexture name="fabric0034" x="5140" y="3624" width="1280" height="720"/>
+	<SubTexture name="fabric0035" x="6424" y="3624" width="1280" height="720"/>
+	<SubTexture name="fabric0036" x="4" y="4348" width="1280" height="720"/>
+	<SubTexture name="fabric0037" x="1288" y="4348" width="1280" height="720"/>
+	<SubTexture name="fabric0038" x="2572" y="4348" width="1280" height="720"/>
+	<SubTexture name="fabric0039" x="3856" y="4348" width="1280" height="720"/>
+	<SubTexture name="fabric0040" x="5140" y="4348" width="1280" height="720"/>
+	<SubTexture name="fabric0041" x="6424" y="4348" width="1280" height="720"/>
+	<SubTexture name="fabric0042" x="4" y="5072" width="1280" height="720"/>
+	<SubTexture name="fabric0043" x="1288" y="5072" width="1280" height="720"/>
+	<SubTexture name="fabric0044" x="2572" y="5072" width="1280" height="720"/>
+	<SubTexture name="fabric0045" x="3856" y="5072" width="1280" height="720"/>
+</TextureAtlas>

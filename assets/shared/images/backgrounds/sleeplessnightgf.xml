@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sleeplessnightgf.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Base0000" x="0" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0001" x="553" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0002" x="1106" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0003" x="1659" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0004" x="2212" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0005" x="2765" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0006" x="3318" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0007" x="3871" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0008" x="4424" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0009" x="4977" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0010" x="5530" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0011" x="6083" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0012" x="6636" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0013" x="7189" y="0" width="553" height="553"/>
+	<SubTexture name="GF Base0014" x="0" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0015" x="553" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0016" x="1106" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0017" x="1659" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0018" x="2212" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0019" x="2765" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0020" x="3318" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0021" x="3871" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0022" x="4424" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0023" x="4977" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0024" x="5530" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0025" x="6083" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0026" x="6636" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0027" x="7189" y="553" width="553" height="553"/>
+	<SubTexture name="GF Base0028" x="0" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0029" x="553" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0030" x="1106" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0031" x="1659" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0032" x="2212" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0033" x="2765" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0034" x="3318" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0035" x="3871" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0036" x="4424" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0037" x="4977" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0038" x="5530" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0039" x="6083" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0040" x="6636" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0041" x="7189" y="1106" width="553" height="553"/>
+	<SubTexture name="GF Base0042" x="0" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0043" x="553" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0044" x="1106" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0045" x="1659" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0046" x="2212" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0047" x="2765" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0048" x="3318" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0049" x="3871" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0050" x="4424" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0051" x="4977" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0052" x="5530" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0053" x="6083" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0054" x="6636" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0055" x="7189" y="1659" width="553" height="553"/>
+	<SubTexture name="GF Base0056" x="0" y="2212" width="553" height="553"/>
+	<SubTexture name="GF Base0057" x="553" y="2212" width="553" height="553"/>
+</TextureAtlas>

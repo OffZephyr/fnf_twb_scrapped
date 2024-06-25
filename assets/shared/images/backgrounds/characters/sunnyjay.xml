@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sunnyjay.png">
+<SubTexture name="sunnyjay walk0000" x="857" y="0" width="507" height="385" frameX="-375" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sunnyjay walk0001" x="0" y="0" width="451" height="494" frameX="-443" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sunnyjay walk0002" x="0" y="494" width="540" height="366" frameX="-362" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sunnyjay walk0003" x="451" y="0" width="406" height="481" frameX="-446" frameY="-207" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

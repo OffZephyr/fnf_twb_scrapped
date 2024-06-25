@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darcy.png">
+<SubTexture name="darcy walk0000" x="204" y="0" width="232" height="592" frameX="-529" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="darcy walk0001" x="850" y="0" width="207" height="580" frameX="-526" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="darcy walk0002" x="1057" y="0" width="207" height="576" frameX="-525" frameY="-85" frameWidth="1280" frameHeight="720" />
+<SubTexture name="darcy walk0003" x="0" y="0" width="204" height="597" frameX="-529" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="darcy walk0004" x="436" y="0" width="207" height="587" frameX="-526" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="darcy walk0005" x="643" y="0" width="207" height="584" frameX="-525" frameY="-85" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

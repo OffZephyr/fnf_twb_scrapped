@@ -1,0 +1,10 @@
+MOD OWNER & SUPERVISOR
+Hey I'm Zephyr ! I'm the one that wrote all of these descriptions.
+Did you know you have a pretty face~ ?
+MAIN SOURCE/LUA DEV
+As the only source code/lua dev in this mod team, I had to a lot of stuff for this mod, that includes the build itself, making the backgrounds , the characters and the songs work, and a bunch of other boring stuff. Shout out to the Official Psych Engine discord server, they helped me a lot with my dumb coding mistakes!
+UI DESIGNER
+Designed the Credits Menu, Endings Menu, Freeplay Menu and Credits Selection Menu.
+
+"I'd also like to say that I enjoyed working on this project a lot, and I'm hoping to continue working on it, with future updates and new lore! Thanks for playing and I hope you enjoyed this mod ! <3"
+                                                          -Zephyr

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sans nom-1.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RunBody0000" x="0" y="0" width="661" height="661"/>
+	<SubTexture name="RunBody0001" x="661" y="0" width="661" height="661"/>
+	<SubTexture name="RunBody0002" x="1322" y="0" width="661" height="661"/>
+	<SubTexture name="RunBody0003" x="1983" y="0" width="661" height="661"/>
+	<SubTexture name="RunBody0004" x="2644" y="0" width="661" height="661"/>
+	<SubTexture name="RunBody0005" x="3305" y="0" width="661" height="661"/>
+	<SubTexture name="RunBody0006" x="0" y="661" width="661" height="661"/>
+	<SubTexture name="RunBody0007" x="661" y="661" width="661" height="661"/>
+	<SubTexture name="RunBody0008" x="1322" y="661" width="661" height="661"/>
+	<SubTexture name="RunBody0009" x="1983" y="661" width="661" height="661"/>
+	<SubTexture name="RunBody0010" x="2644" y="661" width="661" height="661"/>
+	<SubTexture name="RunBody0011" x="3305" y="661" width="661" height="661"/>
+	<SubTexture name="RunBody0012" x="0" y="1322" width="661" height="661"/>
+	<SubTexture name="RunBody0013" x="661" y="1322" width="661" height="661"/>
+	<SubTexture name="RunBody0014" x="1322" y="1322" width="661" height="661"/>
+	<SubTexture name="RunBody0015" x="1983" y="1322" width="661" height="661"/>
+	<SubTexture name="RunBody0016" x="2644" y="1322" width="661" height="661"/>
+	<SubTexture name="RunBody0017" x="3305" y="1322" width="661" height="661"/>
+	<SubTexture name="RunBody0018" x="0" y="1983" width="661" height="661"/>
+</TextureAtlas>

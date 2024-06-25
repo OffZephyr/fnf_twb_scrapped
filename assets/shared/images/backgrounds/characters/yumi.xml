@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yumi.png">
+<SubTexture name="yumi walkin0000" x="0" y="0" width="564" height="393" frameX="-100" frameY="-240" frameWidth="1280" frameHeight="720" />
+<SubTexture name="yumi walkin0001" x="564" y="0" width="544" height="387" frameX="-110" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="yumi walkin0002" x="561" y="393" width="522" height="337" frameX="-129" frameY="-297" frameWidth="1280" frameHeight="720" />
+<SubTexture name="yumi walkin0003" x="0" y="393" width="561" height="360" frameX="-103" frameY="-275" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

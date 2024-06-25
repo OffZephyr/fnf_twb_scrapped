@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gumvy.png">
+<SubTexture name="gumvy walk0000" x="0" y="0" width="294" height="607" frameX="-530" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gumvy walk0001" x="691" y="0" width="269" height="600" frameX="-535" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gumvy walk0002" x="294" y="0" width="203" height="607" frameX="-560" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gumvy walk0003" x="497" y="0" width="194" height="602" frameX="-560" frameY="-67" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

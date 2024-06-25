@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="timson.png">
+<SubTexture name="play0000" x="0" y="0" width="146" height="181" frameX="-63" frameY="-38" frameWidth="261" frameHeight="261" />
+<SubTexture name="play0001" x="146" y="0" width="140" height="177" frameX="-68" frameY="-43" frameWidth="261" frameHeight="261" />
+</TextureAtlas>

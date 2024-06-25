@@ -1,0 +1,22 @@
+{
+	"directory": "",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+    "isJokeStage": false,
+    "isFireStage": false,
+    "isSleepStage": true,
+    "isSlowlyStage": false,
+    "isBorgorStage": false,
+    "isClassicStage": false,
+	"stageUI": "sleep",
+
+	"boyfriend": [-308, -120],
+	"girlfriend": [0, 0],
+	"opponent": [-210, -40],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

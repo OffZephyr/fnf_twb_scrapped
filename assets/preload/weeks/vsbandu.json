@@ -1,0 +1,25 @@
+{
+	"storyName": "The World Below",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Held by a thread",
+			"freeplay/held-by-a-thread",
+			[
+				70,
+				70,
+				70
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Classic"
+}

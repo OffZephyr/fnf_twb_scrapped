@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diamonddev.png">
+<SubTexture name="diamonddev walkin0000" x="270" y="0" width="313" height="536" frameX="-537" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="diamonddev walkin0001" x="583" y="0" width="303" height="535" frameX="-565" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="diamonddev walkin0002" x="886" y="0" width="286" height="533" frameX="-548" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="diamonddev walkin0003" x="0" y="0" width="270" height="541" frameX="-554" frameY="-144" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

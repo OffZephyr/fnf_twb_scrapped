@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="givaller.png">
+<SubTexture name="givaller walk0000" x="755" y="0" width="460" height="440" frameX="-495" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="givaller walk0001" x="0" y="447" width="385" height="431" frameX="-550" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="givaller walk0002" x="367" y="0" width="388" height="445" frameX="-567" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="givaller walk0003" x="0" y="0" width="367" height="447" frameX="-568" frameY="-169" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

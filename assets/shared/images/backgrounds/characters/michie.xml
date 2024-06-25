@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="michie.png">
+<SubTexture name="michie walk0000" x="745" y="0" width="438" height="280" frameX="-442" frameY="-211" frameWidth="1280" frameHeight="720" />
+<SubTexture name="michie walk0001" x="0" y="288" width="336" height="283" frameX="-540" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="michie walk0002" x="0" y="0" width="367" height="288" frameX="-506" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="michie walk0003" x="367" y="0" width="378" height="288" frameX="-495" frameY="-201" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,16 @@
+{
+	"directory": "",
+	"defaultZoom": 0.7,
+    "isPixelStage": false,
+    "isJokeStage": false,
+    "isFireStage": false,
+    "isSleepStage": false,
+    "isSlowlyStage": true,
+    "isBorgorStage": false,
+    "isClassicStage": false,
+	"stageUI": "slowly",
+
+	"boyfriend": [425, 100],
+	"girlfriend": [400, 130],
+	"opponent": [300, 50]
+}

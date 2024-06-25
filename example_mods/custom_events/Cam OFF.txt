@@ -1,0 +1,7 @@
+Value 1: COLOR - Simple as that.
+[Needs to be in HEX Code!]
+
+Value 2: TIME - Mark this, in seconds, how long
+it will take to everything turn black.
+
+[*BOTH* VALUES ARE REQUIRED!]

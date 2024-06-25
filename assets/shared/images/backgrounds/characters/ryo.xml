@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ryo.png">
+<SubTexture name="ryo walkin0000" x="617" y="0" width="365" height="560" frameX="-476" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ryo walkin0001" x="0" y="571" width="338" height="553" frameX="-476" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ryo walkin0002" x="338" y="571" width="316" height="548" frameX="-478" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ryo walkin0003" x="0" y="0" width="308" height="571" frameX="-476" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ryo walkin0004" x="308" y="0" width="309" height="564" frameX="-476" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ryo walkin0005" x="982" y="0" width="308" height="560" frameX="-478" frameY="-103" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

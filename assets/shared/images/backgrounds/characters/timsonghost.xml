@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="timsonghost.png">
+<SubTexture name="timsonghost walk0000" x="0" y="0" width="301" height="377" frameX="-492" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonghost walk0001" x="301" y="0" width="297" height="377" frameX="-498" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonghost walk0002" x="598" y="0" width="302" height="375" frameX="-494" frameY="-152" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

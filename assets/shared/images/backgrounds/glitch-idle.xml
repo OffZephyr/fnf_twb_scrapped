@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitch-idle.png">
+<SubTexture name="glitch-idle idle0000" x="0" y="0" width="463" height="629" frameX="-663" frameY="-365" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0001" x="0" y="0" width="463" height="629" frameX="-671" frameY="-377" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0002" x="0" y="0" width="463" height="629" frameX="-693" frameY="-367" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0003" x="901" y="0" width="396" height="552" frameX="-782" frameY="-396" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0004" x="901" y="0" width="396" height="552" frameX="-788" frameY="-386" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0005" x="901" y="0" width="396" height="552" frameX="-780" frameY="-379" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0006" x="463" y="0" width="438" height="597" frameX="-708" frameY="-362" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0007" x="463" y="0" width="438" height="597" frameX="-699" frameY="-364" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="glitch-idle idle0008" x="463" y="0" width="438" height="597" frameX="-688" frameY="-373" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

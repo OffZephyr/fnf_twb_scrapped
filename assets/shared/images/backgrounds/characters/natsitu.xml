@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="natsitu.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="walkin0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="walkin0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="walkin0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="walkin0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="walkin0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="walkin0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="walkin0006" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="walkin0007" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="walkin0008" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="walkin0009" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="walkin0010" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="walkin0011" x="2560" y="2160" width="1280" height="720"/>
+</TextureAtlas>

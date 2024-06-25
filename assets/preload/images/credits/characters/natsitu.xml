@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="natsitu.png">
+<SubTexture name="play0000" x="0" y="0" width="182" height="187" frameX="-35" frameY="-43" frameWidth="261" frameHeight="261" />
+<SubTexture name="play0001" x="182" y="0" width="168" height="180" frameX="-39" frameY="-50" frameWidth="261" frameHeight="261" />
+</TextureAtlas>

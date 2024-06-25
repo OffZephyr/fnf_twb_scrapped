@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="seonne.png">
+<SubTexture name="seonne walk0000" x="750" y="0" width="330" height="504" frameX="-521" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="seonne walk0001" x="487" y="0" width="263" height="507" frameX="-531" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="seonne walk0002" x="0" y="0" width="262" height="515" frameX="-531" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="seonne walk0003" x="262" y="0" width="225" height="510" frameX="-531" frameY="-116" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

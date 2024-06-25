@@ -1,0 +1,11 @@
+stage
+fabric
+puppetry
+bad-ending
+good-ending
+sleeplessnight
+true-ending
+true-ending-two
+slowly
+joke
+oldfabric

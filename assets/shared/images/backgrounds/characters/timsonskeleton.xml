@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="timsonskeleton.png">
+<SubTexture name="timsonskeleton walk0000" x="406" y="0" width="212" height="400" frameX="-346" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0001" x="0" y="0" width="208" height="406" frameX="-346" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0002" x="208" y="0" width="198" height="401" frameX="-345" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0003" x="208" y="0" width="198" height="401" frameX="-345" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0004" x="432" y="406" width="243" height="381" frameX="-353" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0005" x="203" y="406" width="229" height="384" frameX="-353" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0006" x="618" y="0" width="203" height="392" frameX="-349" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="timsonskeleton walk0007" x="0" y="406" width="203" height="392" frameX="-349" frameY="-149" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

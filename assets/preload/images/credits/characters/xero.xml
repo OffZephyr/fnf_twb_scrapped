@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="xero.png">
+<SubTexture name="play0000" x="959" y="0" width="912" height="1353" frameX="-389" frameY="-214" frameWidth="1700" frameHeight="1700" />
+<SubTexture name="play0001" x="0" y="0" width="959" height="1355" frameX="-415" frameY="-212" frameWidth="1700" frameHeight="1700" />
+</TextureAtlas>
